@@ -5,7 +5,7 @@
 
 I'm thrilled to share the completion of my LGMVIP Web Developer Internship task - 4. a fully functional calculator built using html ,css and JavaScript
 
-**Link : **  https://chaudharyshyam.github.io/LGMVIP-Web-Task-4/
+**Link :**  https://chaudharyshyam.github.io/LGMVIP-Web-Task-4/
 
 ## Features
 
