@@ -5,7 +5,7 @@
 
 a fully functional calculator built using html ,css and JavaScript
 
-**Link :**  https://chaudharyshyam.github.io/LGMVIP-Web-Task-4/
+**Link :**   https://chaudharyshyam.github.io/Calculator/
 
 ## Features
 
